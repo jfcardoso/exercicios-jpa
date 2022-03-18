@@ -31,11 +31,11 @@
             <property name="javax.persistence.jdbc.driver"
                 value="com.mysql.jdbc.Driver"/>
             <property name="javax.persistence.jdbc.url"
-                value="jdbc:mysql://localhost/curso_java"/>
+                value="jdbc:mysql://localhost/pasta_onde_se_encontra_o_projeto"/>
             <property name="javax.persistence.jdbc.user"
-                value="root"/>
+                value="digite_aqui_seu_username"/>
             <property name="javax.persistence.jdbc.password"
-                value="firulas1"/>
+                value="digite_aqui_a_senha_do_mysql"/>
                             
             <property name="hibernate.dialect"
                 value="org.hibernate.dialect.MySQL57Dialect"/>
